@@ -1,0 +1,15 @@
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.csproj.AssemblyReference.cache
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.AssemblyInfoInputs.cache
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.AssemblyInfo.cs
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.csproj.CoreCompileInputs.cache
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\bin\Debug\net6.0\Д.З. Задача 27.exe
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\bin\Debug\net6.0\Д.З. Задача 27.deps.json
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\bin\Debug\net6.0\Д.З. Задача 27.runtimeconfig.json
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\bin\Debug\net6.0\Д.З. Задача 27.dll
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\bin\Debug\net6.0\Д.З. Задача 27.pdb
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.dll
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\refint\Д.З. Задача 27.dll
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.pdb
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\Д.З. Задача 27.genruntimeconfig.cache
+C:\Моя Учёба\Програмирование\Lesson4\Д.З. Задача 27\obj\Debug\net6.0\ref\Д.З. Задача 27.dll
